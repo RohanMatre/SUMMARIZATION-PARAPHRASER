@@ -27,7 +27,3 @@ To utilize this backend system:
 ## Contributions
 
 Contributions are welcome! Feel free to submit issues or pull requests if you have any improvements, bug fixes, or additional functionalities to suggest.
-
-## License
-
-This project is licensed under [License Name or Link]. See the [LICENSE](LICENSE) file for details.
