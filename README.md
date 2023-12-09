@@ -10,6 +10,9 @@ This repository contains a backend system that receives data from the front-end 
 ### 2. Summarization
 - Employs the FactorSum Model for summarization purposes.
 
+### 3. Web Scraping
+- Implements web scraping techniques to extract data from websites.
+
 ## Backend Flowchart
 
 ![Backend Flowchart](https://github.com/RohanMatre/SUMMARIZATION-PARAPHRASER/assets/100989394/f825b1e7-cc28-4229-815c-9eb2af4d5547)
