@@ -1,0 +1,203 @@
+  div.DraftEditor-root {
+    color: white;
+    min-height: 500px;
+  }
+  div.DraftEditor-editorContainer,
+  div.public-DraftEditor-content {
+    height: 100%;
+    min-height: inherit;
+  }
+.btn-transparent{
+    background-color: transparent;
+}
+
+.btn-transparent:hover{
+    background-color: #404862 !important;
+}
+
+.btn-transparent:focus{ 
+        background-color: #404862 !important;
+}
+.para-box{
+    border-left: #5e5c70 1px solid;
+}
+.rdw-option-wrapper{
+    background-color: #404862 !important;
+    border: none !important;
+   padding: 5px !important;
+    
+}
+
+.rdw-option-wrapper:focus, .rdw-option-wrapper:hover, .rdw-option-active {
+    background-color: #5f667e !important;
+    border: none !important; 
+    box-shadow: none !important;
+    
+}
+.colorpick-pop{
+    background-color: #404862 !important;
+}
+span[style*="font-family: monospace;"]   {
+    color: black;
+  }
+
+.rich-editor, .rich-toolbar{
+    width: 100%;
+
+}
+.rdw-dropdown-selectedtext{
+    background-color: rgb(48 61 93);
+    color: white !important;
+}
+.rdw-dropdownoption-default{
+    background-color: #404862 !important;
+}
+.rdw-dropdownoption-default:hover , .rdw-dropdownoption-active {
+    background-color: #2f3549 !important;
+
+}
+.rdw-image-modal{
+    background-color: #404862 !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+.rich-toolbar{
+    background-color: #404862 !important;
+   border: none !important; 
+}
+.rich-toolbar > div > div > img{
+    filter: invert(1) !important;
+}
+.input-primary  {
+    background-color: rgb(48 61 93);
+}
+
+.input-primary > input{
+    color: white !important;
+}
+
+.input-primary > input::placeholder{
+    color: white !important;
+}
+
+.input-primary .input-group-text{
+    color: white !important;
+}
+
+.red{
+    border-bottom: red 1px solid;
+}
+.Draftail-ToolbarButton{
+    color: white;
+padding: 5px 5px;
+/* width: 100%; */
+box-shadow: none;
+background: #eaebed !important;
+border: none;
+border-radius: 3px;
+margin-bottom: 10px;
+}
+
+.Draftail-ToolbarButton__label{
+vertical-align: 0 !important;
+}
+ 
+
+.katex .katex-mathml{
+    clip: rect(1px,1px,1px,1px);
+    border: 0;
+    height: 1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.katex-display>.katex>.katex-html {
+    display: block;
+    position: relative;
+}
+
+.katex {
+    text-rendering: auto;
+    font: normal 1.21em KaTeX_Main,Times New Roman,serif;
+    line-height: 1.2;
+    text-indent: 0;
+}
+
+.katex-display {
+    display: block;
+    margin: 1em 0;
+    text-align: center;
+}
+.editTex{
+    background-color: #404862 !important;
+    padding: 10px;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    text-align: center;
+}
+
+
+.Draftail-Toolbar{
+    background-color: #404862 !important;
+    border: none !important;
+}
+.Draftail-Editor {
+    background-color: transparent !important;
+   
+    border: none !important;
+}
+.DraftEditor-editorContainer{
+    color: white !important;
+}
+.Draftail-ToolbarButton{
+    margin-bottom: 0px !important;
+    color: white !important;
+    margin-right: 5px;
+    background-color: transparent !important;
+}
+.Draftail-ToolbarButton:active, .Draftail-ToolbarButton:focus, .Draftail-ToolbarButton--active{
+    margin-bottom: 0px !important;
+    border-radius: 5px;
+    border: none !important;
+    color: white !important;
+    background-color:  #2f3549 !important;
+}
+.latex_btn{
+    filter: invert(1);
+
+}
+
+.Draftail-block--code{
+    font-size: 0.7625rem;
+    color: white;
+    background-color: #404862;
+    padding: 5px;
+    
+  }
+
+.button-grp{
+    border-bottom: #404862 1px solid;
+}
+
+.comparing-div{
+    padding: 5px;
+    background-color: #3f994a;
+    margin-top: 10px;
+    border-radius: 2px;
+}
+
+.pdf-container{
+    max-height: 700px;
+    overflow-y: scroll;
+}
+/* changes */
+.btn-success{
+    background-color: seagreen;
+}
+
+.notranslate.public-DraftEditor-content{
+    background-color: grey;
+}

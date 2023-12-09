@@ -1,0 +1,12 @@
+diff --git a/node_modules/@draft-js-modules/katex/dist/index.js b/node_modules/@draft-js-modules/katex/dist/index.js
+index dc7579c..989c7dc 100644
+--- a/node_modules/@draft-js-modules/katex/dist/index.js
++++ b/node_modules/@draft-js-modules/katex/dist/index.js
+@@ -1,6 +1,6 @@
+ import React, { useState, useCallback, useEffect, useMemo, useRef } from 'react';
+ import { SelectionState, Modifier, ContentState, EditorState, ContentBlock, genKey, BlockMapBuilder, KeyBindingUtil } from 'draft-js';
+-import { renderToString } from 'katex';
++import renderToString  from 'katex';
+ 
+ var inlineTeXStrategy = function inlineTeXStrategy(contentBlock, callback, contentState) {
+   contentBlock.findEntityRanges(function (character) {

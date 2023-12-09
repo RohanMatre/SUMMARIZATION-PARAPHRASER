@@ -1,0 +1,1 @@
+ENV['HUGGINGFACEHUB_API_TOKEN'] = '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'
