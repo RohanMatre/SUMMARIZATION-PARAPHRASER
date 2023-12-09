@@ -12,17 +12,17 @@ This repository contains a backend system that receives data from the front-end 
 
 ## Backend Flowchart
 
-![Backend Flowchart](assets/100989394/f825b1e7-cc28-4229-815c-9eb2af4d5547.png)
+![Backend Flowchart](https://github.com/RohanMatre/SUMMARIZATION-PARAPHRASER/assets/100989394/f825b1e7-cc28-4229-815c-9eb2af4d5547)
 
 The backend system follows a flowchart depicted above, illustrating how it receives and processes data from the front-end.
 
 ## Frontend Display
 
-![Frontend Display](assets/100989394/c5c9c2b7-0102-49e8-ba6b-bcf72fc1c5cc.png)
+<img width="1051" alt="image" src="https://github.com/RohanMatre/SUMMARIZATION-PARAPHRASER/assets/100989394/c5c9c2b7-0102-49e8-ba6b-bcf72fc1c5cc">
 
 ## Frontend + Backend Working 
 
-![Frontend + Backend Working](assets/100989394/7335abb4-6817-47c4-9591-7a77b43beb34.png)
+<img width="1048" alt="image" src="https://github.com/RohanMatre/SUMMARIZATION-PARAPHRASER/assets/100989394/7335abb4-6817-47c4-9591-7a77b43beb34">
 
 ## How to Use
 
