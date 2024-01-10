@@ -1,4 +1,4 @@
-# Summarization & Paraphraser
+# Summarization & Paraphraser 
 
 This repository contains a backend system that receives data from the front-end and processes it using two main pipelines: paraphrasing and summarization.
 
